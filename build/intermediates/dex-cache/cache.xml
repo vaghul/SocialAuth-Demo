@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/classes-fc2a20ae08037fd82d7bf27fcf543d4a1dc3d3c3.jar" />
+    </item>
+    <item
+        jar="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/libs/socialauth-android-3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50cb8f7d8602c2de0b42f01ccba940985192aaa7">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/socialauth-android-3.2-f50a427541462d9f99badb678b22860790a8ad32.jar" />
+    </item>
+    <item
+        jar="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/libs/socialauth-4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/socialauth-4.4-5679bcf549f8cdd14b162112a5b7b2cd1290a375.jar" />
+    </item>
+    <item
+        jar="/Users/vaghul/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e5fe37f62d35d656c4826f0d61932501db3d128f.jar" />
+    </item>
+    <item
+        jar="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a4c520e4ea398da392195aa127d76c8076037d63.jar" />
+    </item>
+    <item
+        jar="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/vaghul/AndroidStudioProjects/SocialAuth/app/build/intermediates/pre-dexed/debug/classes-07def459470921c6e4974dc3788c01d6dbbcc8a5.jar" />
+    </item>
+
+</items>
